@@ -5,13 +5,13 @@
 ## Turning it on
 To turn it on, switch the white switch on either side.
 
-(pic)﻿
+![power-switch](https://github.com/engelju/zmk-config-sweep/pics/power-switch.png?raw=true)
 
 ## Resetting the halves
 
 You can bridge the RST and GND pins on the nice!nano with tweezers or a wire — that simulates a reset press. Double-bridging (two quick taps) puts it into the UF2 bootloader, which is what you want for flashing.
 
-(pic)
+![board](https://github.com/engelju/zmk-config-sweep/pics/board.png?raw=true)
 
 ## Generating firmware with ZMK
 
@@ -37,7 +37,7 @@ You can either edit it with a text editor or connect the repo to https://nickcou
 
 # Battery Indicator
 
-(pic).
+![battery](https://github.com/engelju/zmk-config-sweep/pics/battery.png?raw=true)
 
 # Links
 - [Discord help thread with MechboardsUK](https://discord.com/channels/336826782772756481/1465751775196872705)
